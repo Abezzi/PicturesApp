@@ -1,6 +1,6 @@
 ## Project Preview
 
-![alt text](https://github.com/Abezzi/PicturesApp/blob/master/Screenshot%20from%202019-06-06%2012-58-09.pngScreenshot from 2019-06-06 12-58-09.png)
+![alt text](https://github.com/Abezzi/PicturesApp/blob/master/Screenshot%20from%202019-06-06%2012-58-09.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
